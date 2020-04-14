@@ -1,0 +1,28 @@
+# ignore comments
+// ignore these comments too
+
+1. Which one of the following is a valid super type of ArrayList?
+	a. class List
+	b. interface List *
+	c. class Set
+	d. interface Set
+	
+2. Which of the following is NOT a key word in Java?
+	a. int
+	b. Integer
+	c. closure *
+	d. void
+	e. null
+	
+3. Java is strongly typed?
+	a. true *
+	b. false
+	
+4. What if the question is more than one line, like if it has a lot of text that goes past a line break, will this still
+capture it correctly, going to a 3rd line now
+what about that?
+	a. x
+	b. y
+	c. z
+	d. e *
+	
